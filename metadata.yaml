@@ -1,0 +1,26 @@
+_repo: The-Boy-Scout-pathfinders_68497
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Durston, George
+    gutenberg_agent_id: '1844'
+    url: http://www.gutenberg.org/2009/agents/1844
+    wikipedia: https://en.wikipedia.org/wiki/Colonel_George_Durston
+description: ''
+gutenberg_issued: '2022-07-11'
+identifiers:
+  gutenberg: '68497'
+language: en
+pgterms:marc905: 20220525153627durston
+pgterms:marc906: '1921'
+pgterms:marc907: US
+production_note: Roger Frank, Al Haines and the Online Distributed Proofreading Team
+  at https://www.pgdp.net
+publication_note: United States :The Saalfield Publishing Company,1921.
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: The Boy Scout pathfinders
+url: http://www.gutenberg.org/ebooks/68497
