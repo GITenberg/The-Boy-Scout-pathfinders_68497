@@ -1,5 +1,8 @@
 _repo: The-Boy-Scout-pathfinders_68497
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 68497-h/images/cover.jpg
 creator:
   author:
     agent_name: Durston, George
@@ -7,6 +10,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/1844
     wikipedia: https://en.wikipedia.org/wiki/Colonel_George_Durston
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/68497#The-Boy-Scout-pathfinders
 gutenberg_issued: '2022-07-11'
 identifiers:
   gutenberg: '68497'
